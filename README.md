@@ -1,2 +1,11 @@
-# MyFrontEndP
-This is a frontendDesign of employee performance status, It's a Design that was developed using FIGMA.
+
+  # Employee Score Dashboard
+
+  This is a code bundle for Employee Score Dashboard. The original project is available at https://www.figma.com/design/3STKY17c6g2whrtlQ9IiWh/Employee-Score-Dashboard.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
